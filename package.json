@@ -2,7 +2,7 @@
   "name": "rafaels_dashboard",
   "version": "1.0.0",
   "description": "its a dashboard",
-  "main": "index.js",
+  "start": "node index.js",
   "dependencies": {
     "express": "^4.16.2"
   },
